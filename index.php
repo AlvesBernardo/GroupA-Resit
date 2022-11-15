@@ -5,11 +5,11 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link  type="text/css" href="styles/styles.css" rel="stylesheet">
+    <link type="text/css" href="styles/styles.css" rel="stylesheet">
     <title>Group A Resit</title>
 </head>
 <body>
-
+<div id="content">
 <header>
     <?php
     //including tha nav bar once in the index page so it stays here for the rest of the pages
@@ -37,7 +37,7 @@ if ($page == "Home") {
     include_once "includes/";
 } else if ($page ==="Bernardo"){
     include_once "includes/bernardoPage.php";
-} else if ($page ==="Iarina"){
+} /*else if ($page ==="Iarina"){
     include_once "includes/";
 } else if ($page ==="Ada"){
     include_once "includes/";
@@ -45,19 +45,19 @@ if ($page == "Home") {
     include_once "includes/";
 }else {
     include_once "includes/";
-}
+}*/
 
 
 
 
 
 ?>
-
+</div>
 </body>
 <footer>
     <?php
     //including the footer
-    include_once "includes/";
+   // include_once "includes/";
 
     ?>
 </footer>
