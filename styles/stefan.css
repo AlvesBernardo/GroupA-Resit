@@ -1,1 +1,20 @@
-sdhdfghhtrhtrhtrhrh4
+body{
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+.rightcolumn {
+  float: left;
+  width: 25%;
+}
+
+.fakeimg {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+}
