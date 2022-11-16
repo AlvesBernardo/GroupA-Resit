@@ -57,7 +57,7 @@ if ($page == "Home") {
 <footer>
     <?php
     //including the footer
-    include_once "includes/footer.html"
+    include_once "includes/footer.html";
 
     ?>
 </footer>

@@ -49,4 +49,32 @@ header .active {
 
 }
 
-/* no
+
+
+
+
+
+
+
+/* footer */
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+footer {
+    display: flex;
+    flex-direction: column;
+	align-items: flex-end;
+    grid-column: 1/7;
+    width: 100%;
+
+}
+
+footer li a {
+    color: white;
+}
