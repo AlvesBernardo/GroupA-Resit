@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+main .header ul {
+    list-style-type: none;
+}
+main .header img {
+    height: 220px;
+    width: 200px;
+    border-radius:45%;
+    margin-top:20px;
+}
+span {
+    font-weight: 200;
+}
