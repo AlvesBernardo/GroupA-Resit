@@ -1,6 +1,8 @@
 main {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+
 }
 
 main .header ul {
@@ -14,4 +16,12 @@ main .header img {
 }
 span {
     font-weight: 200;
+}
+
+main ul {
+    list-style-type: none;
+}
+
+section{
+    padding:20px;
 }
