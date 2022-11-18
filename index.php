@@ -39,10 +39,10 @@ if ($page == "Home") {
 } else if ($page ==="Bernardo"){
     include_once "includes/bernardoPage.php";
 } /*else if ($page ==="Iarina"){
-    include_once "includes/";
-} else if ($page ==="Ada"){
-    include_once "includes/";
-} else if ($page ==="Stefan"){
+    include_once "includes/"; 
+}*/ else if ($page ==="Ada"){
+    include_once "includes/adaPage.html"; 
+}/* else if ($page ==="Stefan"){
     include_once "includes/";
 }else {
     include_once "includes/";
@@ -58,8 +58,8 @@ if ($page == "Home") {
 <footer>
     <?php
     //including the footer
-   //include_once "includes/";
 
-    ?>
+   include_once "includes/footer.html";
+?>
 </footer>
 </html>

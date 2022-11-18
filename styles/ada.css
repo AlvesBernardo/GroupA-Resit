@@ -1,0 +1,32 @@
+main {
+display: flex;
+align-items: center;    
+flex-direction: column;
+grid-column: 3/5;
+
+}
+
+main .header ul {
+    list-style-type: none;
+}
+main .header img {
+    height: 220px;
+    width: 200px;
+    border-radius:45%;
+    margin-top:20px;
+}
+span {
+    font-weight: 200;
+}
+
+main ul {
+    list-style-type: none;
+}
+
+section{
+    padding:20px;
+}
+
+main h2 {
+    display: flex;
+}
