@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link type="text/css" href="styles/styles.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/bernardo.css">
     <title>Group A Resit</title>
 </head>
 <body>
