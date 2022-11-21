@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="This is my page for html.">
-      <change afterPath="$PROJECT_DIR$/iarinaPage/iarinaPage.html" afterDir="false" />
-    </list>
+    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="I moved my file into the specific folder." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <workItem from="1668522986653" duration="369000" />
       <workItem from="1668606488151" duration="124000" />
       <workItem from="1668773737329" duration="1447000" />
-      <workItem from="1669064694090" duration="392000" />
+      <workItem from="1669064694090" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="This is my page for html.">
       <created>1669065068593</created>
@@ -63,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669065068593</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is my page for CSS.">
+      <created>1669065122721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669065122721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I moved my file into the specific folder.">
+      <created>1669065299160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669065299160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my page for html." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my page for html." />
+    <MESSAGE value="This is my page for CSS." />
+    <MESSAGE value="I moved my file into the specific folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="I moved my file into the specific folder." />
   </component>
 </project>
