@@ -15,7 +15,7 @@
 
     <div id="degrees">
         <h3>Degrees</h3>
-        <p>I have an IT degree. Special aids degree. Maths degree. And I did an formation as a Dj.</p>
+        <p>I have an IT degree. Special aids degree. Maths degree. And I did a formation as a Dj.</p>
     </div>
 
 
@@ -26,6 +26,19 @@
         <p>I quite do a lot in my free time. I used to play professional basketball back in Luxembourg now I only play in the street and some tournaments. As mentioned before
         I do DJ that takes a lot of my time preparing the songs premixing and all takes quite sometime. I also quite enjoying programming, love Networking and building Databases. If you
         wonder if I like traveling the answer is yes specifically to Los Angles </p>
+    </div>
+
+
+    <div id="languages">
+        <h2>Languages</h2>
+        <ul>
+            <li>Portuguese - Mother Language</li>
+            <li>Luxembourgish - C1</li>
+            <li>English - C1</li>
+            <li>German - B1</li>
+            <li>French - B2</li>
+            <li>Spanish - A2</li>
+        </ul>
     </div>
 
 

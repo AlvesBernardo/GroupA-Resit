@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="I added one of the picture that I need. This picture is used at the beginning of my page.">
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/iarinaImagine6.jpg" afterDir="false" />
+    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="I moved my file into the specific folder + deleted my folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/iarinaPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/iarinaPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/iarina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/iarina.css" afterDir="false" />
@@ -53,7 +47,6 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\pics" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\styles" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\includes" />
     </key>
@@ -70,7 +63,7 @@
       <workItem from="1668522986653" duration="369000" />
       <workItem from="1668606488151" duration="124000" />
       <workItem from="1668773737329" duration="1447000" />
-      <workItem from="1669064694090" duration="4887000" />
+      <workItem from="1669064694090" duration="3480000" />
     </task>
     <task id="LOCAL-00001" summary="This is my page for html.">
       <created>1669065068593</created>
@@ -100,14 +93,7 @@
       <option name="project" value="LOCAL" />
       <updated>1669065456400</updated>
     </task>
-    <task id="LOCAL-00005" summary="I added one of the picture that I need. This picture is used at the beginning of my page.">
-      <created>1669068515169</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1669068515169</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,8 +115,7 @@
     <MESSAGE value="This is my page for CSS." />
     <MESSAGE value="I moved my file into the specific folder." />
     <MESSAGE value="I moved my file into the specific folder + deleted my folder" />
-    <MESSAGE value="I added one of the picture that I need. This picture is used at the beginning of my page." />
-    <option name="LAST_COMMIT_MESSAGE" value="I added one of the picture that I need. This picture is used at the beginning of my page." />
+    <option name="LAST_COMMIT_MESSAGE" value="I moved my file into the specific folder + deleted my folder" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
