@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="Add photos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/iarinaPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/iarinaPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/iarina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/iarina.css" afterDir="false" />
-    </list>
+    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="update html: creating the container and adding the text and imagines on the page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +43,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\pics" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\styles" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\includes" />
     </key>
@@ -93,7 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669065456400</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add the background photo">
+      <created>1669138312039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138312039</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update css: working on grid and styling paragraphs, divs and imagines.">
+      <created>1669138436216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138436216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update html: creating the container and adding the text and imagines on the page.">
+      <created>1669138555806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138555806</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +133,10 @@
     <MESSAGE value="This is my page for CSS." />
     <MESSAGE value="I moved my file into the specific folder." />
     <MESSAGE value="I moved my file into the specific folder + deleted my folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="I moved my file into the specific folder + deleted my folder" />
+    <MESSAGE value="Add the background photo" />
+    <MESSAGE value="Update css: working on grid and styling paragraphs, divs and imagines." />
+    <MESSAGE value="update html: creating the container and adding the text and imagines on the page." />
+    <option name="LAST_COMMIT_MESSAGE" value="update html: creating the container and adding the text and imagines on the page." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
