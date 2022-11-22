@@ -1,12 +1,78 @@
-main{
-   display:flex;
-   align-items: center;
-   flex-direction:column;
-   grid-column:3/5;
+* {
+    margin: 0;
+    padding: 0;
 }
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #2196F3;
-  padding: 10px;
+
+body{
+   background-color: #8000ff;
+}
+.container{
+   margin: 0 auto;
+   background:#bf00ff;
+   height: 200vh;
+   width: 120vh;
+   display: grid;
+   grid-template-columns: 50% 50%;
+   grid-template-rows: 30vh, 30vh 30vh, 30vh, 30vh,30vh;
+}
+
+.headerPage{
+   grid-column:1/2;
+   grid-row: 1/2;'
+   text-align: center;
+   padding:10px;
+}
+
+.description{
+   grid-column: 2/2;
+   text-align:center;
+   height:100%;
+   width:100%;
+}
+
+.myFamily{
+   grid-column: 2/2;
+   grid-rows: 2/3;
+   
+}
+.descriptionTwo{
+   grid-column:1/2;
+   grid-row: 2/3;
+   text-align: center;
+   height:100%;
+   width:100%;
+}
+
+.myMom{
+   grid-column: 1/2;
+   grid-row: 3/4;
+   
+}
+
+.descriptionThree{
+   grid-columns: 2/2;
+   grid-row: 3/4;
+   text-align: center; 
+}
+
+.myDad{
+   grid-column: 2/2;
+   grid-row: 4/5;
+}
+
+.descriptionFour{
+   grid-column: 1/2;
+   grid-row: 4/5;
+   text-align: center;
+}
+
+.myBrother{
+   grid-column: 1/2;
+   grid-row: 5/6;
+}
+
+.descriptionFive{
+   grid-column:2/2;
+   grid-rows: 5/6;
+   text-align: center;
 }
