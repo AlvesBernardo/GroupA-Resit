@@ -1,7 +1,7 @@
 body{
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background: #707070;
 }
 .leftcolumn {   
   float: left;
@@ -18,12 +18,19 @@ body{
   padding: 20px;
   margin-top: 20px;
 }
-.printing {
-  background-color: #aaa;
+#printing {
   width: 95%;
   padding: 20px;
-   background-size:contain;
-   height:200px;
+  background-size:contain;
+  height:200px;
   background-image:url("../pictures/3dPrint2.png");
 }
+#gym {
+  width: 95%;
+  padding: 20px;
+  background-size:contain;
+  height:200px;
+  background-image:url("../pictures/workout.jpg");
+}
+
 
