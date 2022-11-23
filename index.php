@@ -35,15 +35,15 @@ if (isset($_GET['page'])) {
 
 //depending on the certain par we include a certain page
 if ($page == "Home") {
-    include_once "includes/";
+    //include_once "i";
 } else if ($page ==="Bernardo"){
     include_once "includes/bernardoPage.php";
 } /*else if ($page ==="Iarina"){
     include_once "includes/"; 
 }*/ else if ($page ==="Ada"){
     include_once "includes/adaPage.html"; 
-}/* else if ($page ==="Stefan"){
-    include_once "includes/";
+} else if ($page ==="Stefan"){
+    include_once "includes/stefanPage.html";
 }else {
     include_once "includes/";
 }*/
