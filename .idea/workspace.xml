@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="I moved my file into the specific folder + deleted my folder">
+    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="update html: creating the container and adding the text and imagines on the page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/iarinaPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/iarinaPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/iarina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/iarina.css" afterDir="false" />
@@ -33,20 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/iarin/OneDrive/Documents/GitHub/GroupA-Resit",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/iarin/OneDrive/Documents/GitHub/GroupA-Resit&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\pics" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\styles" />
       <recent name="C:\Users\iarin\OneDrive\Documents\GitHub\GroupA-Resit\includes" />
     </key>
@@ -62,13 +63,8 @@
       <workItem from="1668518695085" duration="2722000" />
       <workItem from="1668522986653" duration="369000" />
       <workItem from="1668606488151" duration="124000" />
-<<<<<<< HEAD
-      <workItem from="1668773737329" duration="1615000" />
-      <workItem from="1669110284445" duration="337000" />
-=======
       <workItem from="1668773737329" duration="1447000" />
       <workItem from="1669064694090" duration="3480000" />
->>>>>>> e96503101a99ed48e97696fc651f1f266c6badee
     </task>
     <task id="LOCAL-00001" summary="This is my page for html.">
       <created>1669065068593</created>
@@ -98,7 +94,35 @@
       <option name="project" value="LOCAL" />
       <updated>1669065456400</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add the background photo">
+      <created>1669138312039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138312039</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update css: working on grid and styling paragraphs, divs and imagines.">
+      <created>1669138436216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138436216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update html: creating the container and adding the text and imagines on the page.">
+      <created>1669138555806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138555806</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update html: creating the container and adding the text and imagines on the page.">
+      <created>1669138649805</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669138649805</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +144,10 @@
     <MESSAGE value="This is my page for CSS." />
     <MESSAGE value="I moved my file into the specific folder." />
     <MESSAGE value="I moved my file into the specific folder + deleted my folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="I moved my file into the specific folder + deleted my folder" />
+    <MESSAGE value="Add the background photo" />
+    <MESSAGE value="Update css: working on grid and styling paragraphs, divs and imagines." />
+    <MESSAGE value="update html: creating the container and adding the text and imagines on the page." />
+    <option name="LAST_COMMIT_MESSAGE" value="update html: creating the container and adding the text and imagines on the page." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
