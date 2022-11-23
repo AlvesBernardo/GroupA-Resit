@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="update html: creating the container and adding the text and imagines on the page." />
+    <list default="true" id="6862827f-1748-482f-9b1a-68eb619bd74d" name="Changes" comment="update html + css: my final page without header and footer. i changed the color of the text and i added paddings and margins.">
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/iarinaPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/iarinaPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/iarina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/iarina.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,11 +125,41 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="2ee8ad39-407c-4a93-b359-f71b7ca845b6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2ee8ad39-407c-4a93-b359-f71b7ca845b6" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
