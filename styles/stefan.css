@@ -32,5 +32,12 @@ body{
   height:200px;
   background-image:url("../pictures/workout.jpg");
 }
+#investing {
+  width: 95%;
+  padding: 20px;
+  background-size:contain;
+  height:200px;
+  background-image:url("../pictures/investing.jpg");
+}
 
 

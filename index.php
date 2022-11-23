@@ -42,8 +42,8 @@ if ($page == "Home") {
     include_once "includes/"; 
 }*/ else if ($page ==="Ada"){
     include_once "includes/adaPage.html"; 
-}/* else if ($page ==="Stefan"){
-    include_once "includes/";
+} else if ($page ==="Stefan"){
+    include_once "includes/stefanPage.html";
 }else {
     include_once "includes/";
 }*/
