@@ -17,6 +17,7 @@ body{
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+ box-shadow: 10px 10px 15px rgba(0,0,0,1)
 }
 #printing {
   width: 95%;
@@ -38,6 +39,12 @@ body{
   background-size:contain;
   height:200px;
   background-image:url("../pictures/investing.jpg");
+  
 }
-
+#profilePicture {
+  padding: 20px;
+  height:300px;
+  width:auto;
+ 
+}
 
