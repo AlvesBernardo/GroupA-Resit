@@ -35,7 +35,7 @@ if (isset($_GET['page'])) {
 
 //depending on the certain par we include a certain page
 if ($page == "Home") {
-    include_once "includes/";
+    //include_once "i";
 } else if ($page ==="Bernardo"){
     include_once "includes/bernardoPage.php";
 } /*else if ($page ==="Iarina"){

@@ -11,18 +11,24 @@ header ul {
 
 }
 header {
-    display: flex;
     grid-column: 1/7;
     width: 100%;
-
+    background-color: #333;
+    /* padding-top: 3rem; */
+    /* justify-content: center; */
+    align-items: center;
+    height: 5rem;
+    display: flex;
 }
 
+
 header li {
-    float: left;
+    display: inline;
+    padding: 14px 16px;
+
 }
 
 header li a {
-    display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -33,10 +39,6 @@ header li a:hover:not(.active) {
     background-color: #111;
 }
 
-header .active {
-    background-color: #04AA6D;
-    margin-left: 97rem;
-}
 
 #content {
     background-color: #EDE5BB;
